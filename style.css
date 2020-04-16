@@ -1,0 +1,54 @@
+
+p {
+	color: grey;
+}
+li {
+	color: green;
+}
+h1, h2 {
+	text-decoration: underline;
+}
+ .fleft {
+ 	float: left;
+ }
+ .header {
+ 	text-align: center;
+ 	font-size: 40px;
+ 	font-size: 4vw;
+ 	width: calc(100% - 152px);
+ 	color: white;
+ 	line-height: 100%;
+ 	background-color: lightpink;
+ }
+ .article {
+ 	clear: left;
+ 	margin-top: 2%;
+ 	text-align: center;
+ }
+ .imagebar {
+ 	clear: left;
+ 	background-color: lightpink;
+ 	width: 100%;
+ 	vertical-align: middle;
+ 	margin: auto;
+ }
+.extra_info {
+	display: block;
+	background-color: lightpink;
+	width: 100%;
+}
+ .suppliers {
+ 	width: 50%;
+ 	margin-right: 1%;
+ }
+ .ingredients {
+ 	width: 49%;
+ 	float: left;
+ }
+ .contact_info {
+ 	clear: left;
+ 	text-align: center;
+ }
+ .citation {
+ 	text-align: center;
+ }
